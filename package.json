@@ -1,0 +1,23 @@
+{
+  "name": "@kornev/eslintrc",
+  "version": "1.0.0",
+  "description": "eslint config",
+  "keywords": [],
+  "homepage": "https://github.com/kornevdima/eslintrc#readme",
+  "bugs": {
+    "url": "https://github.com/kornevdima/eslintrc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kornevdima/eslintrc.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sort-package-json": "^1.39.1"
+  }
+}
